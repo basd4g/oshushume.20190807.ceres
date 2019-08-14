@@ -1,8 +1,8 @@
-# Web Service Using Slim Framework 3 Skeleton Application
+# お酒酒め(Oshushume) is Web Application that recommend liqueurs
 
-This is a sample web application using Slim3 for 2021 graduates intern event for CERES INC.
+This is a web application "お酒酒め(Oshushume)" using Slim3 made by team-B on 2021 graduates intern event for CERES INC.
 
-# Library Using
+## Library Using
 
 - slim/twig-view
 - twig/extensions
@@ -10,7 +10,7 @@ This is a sample web application using Slim3 for 2021 graduates intern event for
 - bryanjhv/slim-session
 - Bootstrap4
  
-# MVC Root
+## MVC Root
 
 - Model (DAO)
    - app/Model
@@ -21,7 +21,7 @@ This is a sample web application using Slim3 for 2021 graduates intern event for
 - Controller (Routes)
    - app/Controller
    
-# To Start Builtin Web server
+## To Start Builtin Web server
 
 type below
 
